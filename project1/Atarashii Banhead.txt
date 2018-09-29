@@ -1,0 +1,190 @@
+[table]
+[tr]
+[td][align=center][b]公告&活动[/b][/align][h][/h]
+[size=100][url=/read.php?tid=2515268][b]DOTA2区版规[/b][/url]
+[url=/read.php?tid=10668934][b]ROLL贴规定[/b][/url]
+[url=/read.php?tid=12753745][b]五月饰品交换集中贴[/b][/url]
+
+
+
+
+
+
+[/size]
+[/td]
+[td colspan=3 rowspan=2]
+[b][size=130%][color=darkred]阀木部推荐[/color][/size][/b]
+[align=right][pid=265787224][color=red][size=80%][b]readmore[/b][/size][/color][/pid][/align][h][/h]
+[r][img]./mon_201803/13/8xQ5-e7w2K7ToS5u-3c.png[/img]
+[url=/read.php?tid=13612425][size=150%][color=red]Artifact新内容抢先看[/color][/size][/url][/r]
+[l][list]
+[*][url=/read.php?tid=13761565&_ff=321][b]Cybersport专访Slacks[/b][/url][color=red]~new~[/color]
+[*][url=/read.php?tid=13637252][b]从运营角度详细解析DOTA Plus[/b][/url] [color=red]~new~[/color]
+[*][url=/read.php?tid=13605384][b]9pasha:我尊重navi所有人,除了"Nv.lil"[/b][/url] [color=red]~new~[/color]
+[*][url=/read.php?tid=13600318][b]VP.9pasha评价卡托维兹Major[/b][/url] 
+[*][url=/read.php?tid=13579247][b][视频]Miracle-的故事[/b][/url]
+[*][url=/read.php?tid=13574501][b]马桶哥在ESL卡托维兹的专访[/b][/url]
+[*][url=/read.php?tid=13559851][b]使用Gosu.AI提升你的dota水平[/b][/url]
+[*][url=/read.php?tid=13557877][b][视频]RTZ的故事[/b][/url]
+[*][url=/read.php?tid=13380712][b]7.08春季涤尘迎新更新摘要[/b][/url]
+[*][url=/read.php?tid=13393630][b]Lil/Rodjer换人风波[/b][/url]
+[/list]
+[/l]
+
+
+[h][/h]
+[l][align=center][img]./mon_201802/26/8xQ5-a40bKuToS6o-2s.png[/img][/align][/l]
+[size=100][url=/read.php?tid=14406366][b]第22期[/b][color=red][b]NEW![/b][/color][/url] [url=/read.php?tid=14109490][b]第21期[/b][/url] [url=/read.php?tid=13976555][b]第20期[/b][/url] [url=/read.php?tid=13877785][b]第19期[/b][/url]
+[url=/read.php?tid=13782649][b]第18期[/b][/url] [url=/read.php?tid=13687538&_ff=321][b]第17期[/b][/url] [url=/read.php?tid=13625729][b]第16期[/b][/url] [url=/read.php?tid=13444379][b]第15期[/b][/url][url=/read.php?tid=13361240][b]第14期[/b][/url][url=/read.php?tid=13273363][b]第13期简报[/b][/url][url=/read.php?tid=13203104][b]第13期[/b][/url][url=/read.php?tid=13130875][b]第12期[/b][/url][url=/read.php?tid=13065381][b]第11期[/b][/url][url=/read.php?tid=12773792&_ff=321][b]第X期[/b][/url][url=/read.php?tid=12714683][b]第10期[/b][/url]
+[pid=265787209][b]更多节奏盘点[/b][/pid]
+[/size]
+[/td]
+[td colspan=2][align=center][b]新闻资讯[/b] [pid=265782475][color=red][size=80%][b]readmore[/b][/size][/color][/pid][/align][h][/h]
+[list]
+[*]...
+[*]...
+[*]...
+[*]...
+[*]...
+[*]...
+[*]...
+[/list]
+[/td]
+[td colspan=3 rowspan=2][align=center][b]综合攻略[/b][/align][h][/h]
+[list][*][url=/read.php?tid=12374137][color=green][b]超大型新手攻略[/color][/url][/b][url=/read.php?tid=8037779][color=green][b]全英雄饰品特效整理[/b][/color][/url] [url=/read.php?tid=8117625][color=green][b]被盗申诉流程[/b][/color][/url]
+[*][url=/read.php?tid=13414302][color=green][b]超凡5的天梯上分心得[/color][/url][/b][url=/read.php?tid=12553631][color=green][b]五号位教科书[/b][/color][/url] [url=/read.php?tid=13435272][color=green][b]五号位应对劣势路勾兵[/b][/color][/url][url=/read.php?tid=12614674][color=green][b]中路solo提高班[/b][/color][/url]
+[url=bbs.ngacn.cc/read.php?tid=13594945][color=green][b]7.10 道具Tips[/b][/color][/url]
+[*][url=/read.php?tid=13510470][color=sienna][b]OMG攻略技能篇[/b][/color][/url] [url=/read.php?tid=13078318][color=sienna][b]OMG攻略英雄篇[/b][/color][/url]
+[*]...
+[/list]
+[align=center][b]英雄攻略[/b][/align][h][/h]
+[list][img]./mon_201807/16/8xQ5-7zy3KbT8S1n-x.png[/img] [url=/read.php?tid=14498666][b]7.18双头龙攻略：左头顺火暖，右头逆水寒[/b][/url] [size=80%][color=red]~推荐~[/color][/size]
+[*][img]./mon_201804/18/8xQ5-6dkzKbT8S1n-x.png[/img] [url=/read.php?tid=13845167][b]7.12一号位SA心得分享[/b][/url] [size=80%][color=red]~推荐~[/color][/size]
+[*][img]./mon_201802/27/8xQ5-d8x3K7T8S1n-x.png[/img] [url=/read.php?tid=13415276][b]石鳞剑士攻略：AE86下山了,Gas！Gas！[/b][/url] [size=80%][color=red]~推荐~[/color][/size]
+[*][b]具有参考意义的攻略[/b]([color=red]注意攻略版本[/color])
+[url=/read.php?tid=13124543][img]./mon_201802/27/8xQ5-9x2eKbT8S1n-x.png[/img][/url][url=/read.php?tid=13268614][img]./mon_201802/27/8xQ5-f69pKaT8S1n-x.png[/img][/url][url=/read.php?tid=12053986][img]./mon_201802/27/8xQ5-ix80KaT8S1n-x.png[/img][/url][url=/read.php?tid=12504380][img]./mon_201802/27/8xQ5-l4d0KbT8S1n-x.png[/img][/url][url=/read.php?tid=11782161][img]./mon_201802/27/8xQ5-h2mrKaT8S1n-x.png[/img][/url][url=/read.php?tid=11744467][img]./mon_201802/27/8xQ5-fl5dKbT8S1n-x.png[/img][/url]
+[url=/read.php?tid=10869279][img]./mon_201802/27/8xQ5-d85bKaT8S1n-x.png[/img][/url][url=/read.php?tid=8845380][img]./mon_201802/27/8xQ5-cpt9KbT8S1n-x.png[/img][/url][url=/read.php?tid=9902284][img]./mon_201802/27/8xQ5-exj8KbT8S1n-x.png[/img][/url]
+
+[/list]
+[/td]
+[/tr]
+[tr]
+[td10][align=center][b]版本更新[/b][/align][h][/h]
+[url=/read.php?tid=13753549][b]7.12版本更新[/b][/url]
+[url=/read.php?tid=13660026][b]7.11版本更新[/b][/url]
+[url=/read.php?tid=13563199][b]7.10版本更新[/b][/url]
+[url=/read.php?tid=13473024][b]7.09版本更新[/b][/url]
+[url=/read.php?tid=13408188][b]7.08版本更新[/b][/url]
+[url=/read.php?tid=12740672][b]7.07版本更新[/b][/url]
+[pid=265782455]早期更新[/pid]
+[/td]
+[td][align=center][size=0%]自动编辑内容起始1[/size]本周最强英雄
+8012/07/23-8012/07/29
+徐志雷 100.00% [color=red]↑5[/color] 
+徐志雷 99.98% [color=green]↓4[/color] 
+徐志雷 99.96% [color=green]3[/color] 
+徐志雷 99.94% [color=red]1[/color] 
+徐志雷 99.90% -0
+[/td][/align]
+[td][align=center]本周最弱英雄
+8012/07/23-8012/07/29
+徐志雷 0.00% [color=red]5[/color] 
+徐志雷 0.01% [color=green]4[/color] 
+徐志雷 0.02% [color=green]3[/color] 
+徐志雷 0.03% [color=red]1[/color]
+徐志雷 10.00% -0
+[/align][/td][/tr][size=0%]自动编辑内容结束1[/size]
+[tr]
+[td rowspan=3][b]2017——2018大型赛事[/b]
+[pid=265354372]留存[/pid][/td]
+[td][align=center][size=80%][url=/read.php?tid=12598927][b]SL i-国际邀请赛：Minor[/b][/url]
+2017.10.11-2017.10.15
+冠军：Liquid[/align][/size]
+[/td]
+[td][align=center][size=80%][url=/read.php?tid=12641556][b]PGL布加勒斯特：Minor[/b][/url]
+2017.10.19-2017.10.22
+冠军：Mineski
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=12673646][b]ESL One汉堡站：[color=red]Major[/color][/b][/url]
+2017.10.26-2017.10.29
+冠军：VP
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=12733842][b]深渊联赛第六赛季：Minor[/b][/url]
+2017.11.2-2017.11.5
+冠军：Liquid
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=12786129][b]完美大师赛：Minor[/b][/url]
+2017.11.19-2017.11.26
+冠军：Newbee[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=12918245][b]梦幻联赛第八赛季：[color=red]Major[/color][/b][/url]
+2017.12.1-2017.12.3
+冠军：Secret
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=12923026][b]MDL Macau：Minor[/b][/url]
+2017.12.8-2017.12.10
+冠军：OG
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13032503][b]DOTA Summit：Minor[/b][/url]
+2017.12.13-2017.12.17
+冠军：VP
+[/size][/align][/td][/tr]
+[tr]
+[td][align=center][size=80%][url=/read.php?tid=13179645][b]CD模式4.0：Minor[/b][/url]
+2018.1.4-2018.1.7
+冠军：Secret
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13307814][b]ESL One 云顶：Minor[/b][/url]
+2018.1.23-2018.1.28
+冠军：Newbee
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13372808][b]SLi-League S4：Minor[/b][/url]
+2018.2.1-2018.2.4
+冠军：Liquid
+[/size][/align][/td]
+[td]
+[align=center][size=80%][url=/read.php?tid=13499412][b]ESL One Katowice：[color=red]Major[/color][/b][/url]
+2018.2.20-2018.2.25
+冠军：VP
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13555145][b]PGL 布加勒斯特：[color=red]Major[/color][/b][/url]
+2018.3.4-2018.3.11
+冠军：VP
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13629960][b]GESC Minor：Minor[/b][/url]
+2018.3.15-2018.3.18
+冠军：EG
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13676831][b]梦幻联赛第九赛季：Minor[/b][/url]
+2018.3.21-2018.3.25
+冠军：Secret
+[/size][/align][/td]
+[td][align=center][size=80%][url=/read.php?tid=13686422][b]亚洲邀请赛：[color=red]Major[/color][/url][/b]
+2018.3.29-2018.4.7
+冠军：Mineski
+[/size][/align][/td][/tr]
+[tr]
+[td11][align=center][size=80%][url=/read.php?tid=13784264][b]SL-i国际邀请赛S5：Minor[/b][/url]
+2018.4.11-2018.4.15
+冠军：OpTic[/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=13929092][b]2018震中杯：[color=red]Major[/color][/b][/url]
+2018.4.27-2018.5.6
+冠军：[color=red][b]LGD[/b][/color][/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=13980714][b]GESC泰国：Minor[/b][/url]
+2018.5.9-2018.5.12
+冠军：VGJ.S[/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=14049103][b]MDL长沙：[color=red]Major[/color][/b][/url]
+2018.5.14-2018.5.20
+冠军：[color=red][b]LGD[/b][/color][/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=14108366][b]ESL ONE伯明翰：[color=red]Major[/color][/b][/url]
+2018.5.23-2018.5.27
+冠军：VP[/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=14175388][b]中国超级锦标赛：[color=red]Major[/color][/b][/url]
+2018.6.2-2018.6.10
+冠军：Liquid[/size][/align][/td]
+[td11][align=center][size=80%][url=/read.php?tid=14318070][b][color=green]TI8中国区预选赛[/color][/b][/url]
+2018.6.18-2018.6.21
+晋级战队：TS&iG[/size][/align][/td]
+[td11][align=center][size=80%][b]待更新[/b]
+2018.x.xx-2018.x.xx
+冠军：[/size][/align][/td][/tr]
+[/table]

@@ -1,0 +1,9 @@
+{
+  "plugin_packages": [],
+  "plugin_on": [
+      "basic",
+      "manager",
+      "weather",
+      "tucao"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "result": {
+        "games": [
+            {
+                "dire_team": {
+                    "team_id": 543897,
+                    "team_name": "15haodui"
+                },
+                "radiant_team": {
+                    "team_id": 2586976,
+                    "team_name": "2586976haodui"
+                },
+                "match_id": 114519
+            }
+        ]
+    }
+}

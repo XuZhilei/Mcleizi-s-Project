@@ -1,0 +1,4 @@
+To put a process to backstage, use shortcut keys Ctrl+Z. It will become sleeping. Remember only use it when process is standby.
+To see backstage processes, use command <jobs>.
+To wake a sleeping process, use command <bg %int%>.
+To put a backstage process to front, use command <fg %int%>.

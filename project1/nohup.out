@@ -1,0 +1,76 @@
+send: 'ehlo [172.16.129.240]\r\n'
+reply: b'250-smtp.qq.com\r\n'
+reply: b'250-PIPELINING\r\n'
+reply: b'250-SIZE 73400320\r\n'
+reply: b'250-AUTH LOGIN PLAIN\r\n'
+reply: b'250-AUTH=LOGIN\r\n'
+reply: b'250-MAILCOMPRESS\r\n'
+reply: b'250 8BITMIME\r\n'
+reply: retcode (250); Msg: b'smtp.qq.com\nPIPELINING\nSIZE 73400320\nAUTH LOGIN PLAIN\nAUTH=LOGIN\nMAILCOMPRESS\n8BITMIME'
+send: 'AUTH PLAIN ADMzMDkwOTU3MzhAcXEuY29tAG9tb2FtZGpxZWltaWRiZmo=\r\n'
+reply: b'235 Authentication successful\r\n'
+reply: retcode (235); Msg: b'Authentication successful'
+send: 'mail FROM:<3309095738@qq.com> size=5564\r\n'
+reply: b'250 Ok\r\n'
+reply: retcode (250); Msg: b'Ok'
+send: 'rcpt TO:<452198708@qq.com>\r\n'
+reply: b'250 Ok\r\n'
+reply: retcode (250); Msg: b'Ok'
+send: 'data\r\n'
+reply: b'354 End data with <CR><LF>.<CR><LF>\r\n'
+reply: retcode (354); Msg: b'End data with <CR><LF>.<CR><LF>'
+data: (354, b'End data with <CR><LF>.<CR><LF>')
+send: b'Content-Type: multipart/mixed; boundary="===============7287069132784280075=="\r\nMIME-Version: 1.0\r\nSubject: =?utf-8?b?TkdB6Ieq5Yqo55m75b2V6aqM6K+B56CB?=\r\n\r\n--===============7287069132784280075==\r\nContent-Type: text/plain; charset="utf-8"\r\nMIME-Version: 1.0\r\nContent-Transfer-Encoding: base64\r\n\r\n5peg5qCH6aKY\r\n\r\n--===============7287069132784280075==\r\nContent-Type: image/png; filename="test.png"\r\nMIME-Version: 1.0\r\nContent-Disposition: attachment; filename="test.png"\r\nContent-ID: <0>\r\nX-Attachment-Id: 0\r\nContent-Transfer-Encoding: base64\r\n\r\n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\r\n\r\n--===============7287069132784280075==--\r\n.\r\n'
+reply: b'250 Ok: queued as \r\n'
+reply: retcode (250); Msg: b'Ok: queued as'
+data: (250, b'Ok: queued as')
+send: 'quit\r\n'
+reply: b'221 Bye\r\n'
+reply: retcode (221); Msg: b'Bye'
+sent email to 452198708@qq.com
+输入验证码：Traceback (most recent call last):
+  File "timer.py", line 80, in <module>
+    main()
+  File "timer.py", line 33, in main
+    driver = loginer.login(driver)
+  File "/root/document/project1/loginer.py", line 48, in login
+    captcha = input('输入验证码：')                                   #输入验证码
+OSError: [Errno 9] Bad file descriptor
+send: 'ehlo [172.16.129.240]\r\n'
+reply: b'250-smtp.qq.com\r\n'
+reply: b'250-PIPELINING\r\n'
+reply: b'250-SIZE 73400320\r\n'
+reply: b'250-AUTH LOGIN PLAIN\r\n'
+reply: b'250-AUTH=LOGIN\r\n'
+reply: b'250-MAILCOMPRESS\r\n'
+reply: b'250 8BITMIME\r\n'
+reply: retcode (250); Msg: b'smtp.qq.com\nPIPELINING\nSIZE 73400320\nAUTH LOGIN PLAIN\nAUTH=LOGIN\nMAILCOMPRESS\n8BITMIME'
+send: 'AUTH PLAIN ADMzMDkwOTU3MzhAcXEuY29tAG9tb2FtZGpxZWltaWRiZmo=\r\n'
+reply: b'235 Authentication successful\r\n'
+reply: retcode (235); Msg: b'Authentication successful'
+send: 'mail FROM:<3309095738@qq.com> size=6132\r\n'
+reply: b'250 Ok\r\n'
+reply: retcode (250); Msg: b'Ok'
+send: 'rcpt TO:<452198708@qq.com>\r\n'
+reply: b'250 Ok\r\n'
+reply: retcode (250); Msg: b'Ok'
+send: 'data\r\n'
+reply: b'354 End data with <CR><LF>.<CR><LF>\r\n'
+reply: retcode (354); Msg: b'End data with <CR><LF>.<CR><LF>'
+data: (354, b'End data with <CR><LF>.<CR><LF>')
+send: b'Content-Type: multipart/mixed; boundary="===============4684257226921501591=="\r\nMIME-Version: 1.0\r\nSubject: =?utf-8?b?TkdB6Ieq5Yqo55m75b2V6aqM6K+B56CB?=\r\n\r\n--===============4684257226921501591==\r\nContent-Type: text/plain; charset="utf-8"\r\nMIME-Version: 1.0\r\nContent-Transfer-Encoding: base64\r\n\r\n5peg5qCH6aKY\r\n\r\n--===============4684257226921501591==\r\nContent-Type: image/png; filename="test.png"\r\nMIME-Version: 1.0\r\nContent-Disposition: attachment; filename="test.png"\r\nContent-ID: <0>\r\nX-Attachment-Id: 0\r\nContent-Transfer-Encoding: base64\r\n\r\n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\r\nQmCC\r\n\r\n--===============4684257226921501591==--\r\n.\r\n'
+reply: b'250 Ok: queued as \r\n'
+reply: retcode (250); Msg: b'Ok: queued as'
+data: (250, b'Ok: queued as')
+send: 'quit\r\n'
+reply: b'221 Bye\r\n'
+reply: retcode (221); Msg: b'Bye'
+sent email to 452198708@qq.com
+输入验证码：Traceback (most recent call last):
+  File "timer.py", line 80, in <module>
+    main()
+  File "timer.py", line 33, in main
+    driver = loginer.login(driver)
+  File "/root/document/project1/loginer.py", line 48, in login
+    captcha = input('输入验证码：')                                   #输入验证码
+OSError: [Errno 9] Bad file descriptor
